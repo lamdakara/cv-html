@@ -1,0 +1,35 @@
+.contenu {
+    width: 500px;
+    margin: 10px auto;
+    /*background-color: lightskyblue;*/
+}
+
+.details {
+   /* background-color:lightpink;*/
+    height: 150px;
+}
+.details img {
+    float: left;
+   
+    height: 150px;
+    border-radius: 50%;
+}
+.liste-details {
+    /*background-color: lightsalmon;*/
+    float: left;
+    list-style: none;
+    margin-top: 25px;
+}
+.cv-section {
+   /* background-color: lightsteelblue;*/
+    padding-bottom: 20px;
+   
+
+}
+
+h1,h2 {
+text-align: center;
+}
+p{
+    margin: 0px;
+}

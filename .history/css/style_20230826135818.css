@@ -1,0 +1,20 @@
+.contenu{
+    width: 500px;
+    margin: 10px auto;
+    background-color: lightskyblue;
+}
+
+.details{
+    background-color:lightpink;
+    height: 150px;
+}
+.details img{
+   
+    height: 150px;
+}
+.liste-details{
+    background-color: lightsalmon;
+}
+.cv-section{
+    background-color: lightsteelblue;
+}

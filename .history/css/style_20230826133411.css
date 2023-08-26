@@ -1,0 +1,13 @@
+.contenue{
+    width: 500px;
+    margin: 10px auto;
+    background-color: lightskyblue;
+}
+
+.details{
+    background-color:black;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
